@@ -1,0 +1,14 @@
+C:\Users\andri\OneDrive\Desktop\SecondGit\SecondGit\bin\Debug\net6.0\SecondGit.exe
+C:\Users\andri\OneDrive\Desktop\SecondGit\SecondGit\bin\Debug\net6.0\SecondGit.deps.json
+C:\Users\andri\OneDrive\Desktop\SecondGit\SecondGit\bin\Debug\net6.0\SecondGit.runtimeconfig.json
+C:\Users\andri\OneDrive\Desktop\SecondGit\SecondGit\bin\Debug\net6.0\SecondGit.dll
+C:\Users\andri\OneDrive\Desktop\SecondGit\SecondGit\bin\Debug\net6.0\SecondGit.pdb
+C:\Users\andri\OneDrive\Desktop\SecondGit\SecondGit\obj\Debug\net6.0\SecondGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive\Desktop\SecondGit\SecondGit\obj\Debug\net6.0\SecondGit.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Desktop\SecondGit\SecondGit\obj\Debug\net6.0\SecondGit.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Desktop\SecondGit\SecondGit\obj\Debug\net6.0\SecondGit.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Desktop\SecondGit\SecondGit\obj\Debug\net6.0\SecondGit.dll
+C:\Users\andri\OneDrive\Desktop\SecondGit\SecondGit\obj\Debug\net6.0\refint\SecondGit.dll
+C:\Users\andri\OneDrive\Desktop\SecondGit\SecondGit\obj\Debug\net6.0\SecondGit.pdb
+C:\Users\andri\OneDrive\Desktop\SecondGit\SecondGit\obj\Debug\net6.0\SecondGit.genruntimeconfig.cache
+C:\Users\andri\OneDrive\Desktop\SecondGit\SecondGit\obj\Debug\net6.0\ref\SecondGit.dll
